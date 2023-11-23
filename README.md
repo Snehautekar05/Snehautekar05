@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **snehautekar055@gmail.com**
 
-- ⚡ Fun fact **Love to explore new things and implement it Aesthetically**
+- ⚡ Fun fact **Love to explore new things and implement them Aesthetically**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
