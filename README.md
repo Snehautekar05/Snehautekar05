@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sneha Sandeep Utekar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehautekar05&label=Profile%20views&color=0e75b6&style=flat" alt="snehautekar05" /> </p>
